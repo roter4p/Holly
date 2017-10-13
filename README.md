@@ -2,3 +2,4 @@
 
 pooling shooter
 dalvik.
+Today I 
